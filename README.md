@@ -28,4 +28,4 @@ This Repo contains the project completed during Business Analytics and Big Data�
 
 
 
-The code can be found in the file: "Begoña Frigolet- Individual Assignment - Hotel Review Analysis - 2017.FINAL.ipynb"  and the final report with answers and findings: "Spark - Individual Assigment-Begoña Frigolet"
+The code can be found in the file: [https://github.com/BegonaFrigolet/SPARK/blob/main/Begon%CC%83a%20Frigolet-%20Individual%20Assignment%20-%20Hotel%20Review%20Analysis%20-%202017.FINAL.ipynb]() and the final report with answers and findings: [https://github.com/BegonaFrigolet/SPARK/blob/main/Spark%20-%20Individual%20Assigment-Begon%CC%83a%20Frigolet.pdf]()
