@@ -27,5 +27,3 @@ This Repo contains the project completed during Business Analytics and Big DataÂ
 - 4. Since the most vocal nationalities (UK, US, Australia and Ireland) give above all good reviews, a loyalty program is recommended towards these nationalities to promote word of mouth on the hotels, as well as an online marketing campaign targeting these nationalities.
 
 
-
-The code can be found in the file: [https://github.com/BegonaFrigolet/SPARK/blob/main/Begon%CC%83a%20Frigolet-%20Individual%20Assignment%20-%20Hotel%20Review%20Analysis%20-%202017.FINAL.ipynb]() and the final report with answers and findings: [https://github.com/BegonaFrigolet/SPARK/blob/main/Spark%20-%20Individual%20Assigment-Begon%CC%83a%20Frigolet.pdf]()
