@@ -6,7 +6,7 @@ This Repo contains the project completed during Business Analytics and Big Data�
 - Data: The original data was scraped by Booking.com and they are the owners of the data, for this analysis 2017 as well as four main locations: United Kingdom, Paris, Amsterdam and Barcelona were taken into consideration.
 - Methology: Through a Virtual Machine and using Spark, data transformations were done with the help of the “PySpark” library.
 
-### MAIN GOAL OF THE ANALYSIS: Gain a perspective on how the customers review the different hotels, which are the best in class and the lowest rated, by location and further factors that can influence this decision: Being the main focus: Location and Reviewer Nationality. 
+### Main Goal: Gain a perspective on how the customers review the different hotels, which are the best in class and the lowest rated, by location and further factors that can influence this decision: Being the main focus: Location and Reviewer Nationality. 
 
 
 ### Through the analysis there are three Business questions that help the reader understand the behavior of the consumers and achieve the needed actions to increase positive reviews:
@@ -28,4 +28,4 @@ This Repo contains the project completed during Business Analytics and Big Data�
 
 
 
-The code can be found in the file: Begoña Frigolet- Individual Assignment - Hotel Review Analysis - 2017.FINAL.ipynb  and the final report with answers and findings: Spark - Individual Assigment-Begoña Frigolet 
+The code can be found in the file: "Begoña Frigolet- Individual Assignment - Hotel Review Analysis - 2017.FINAL.ipynb"  and the final report with answers and findings: "Spark - Individual Assigment-Begoña Frigolet"
